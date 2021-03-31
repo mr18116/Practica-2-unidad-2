@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="fernando-EZbook" name="videoclub.ClientVideoClubServiceTest" skipped="0" tests="2" time="0.343" timestamp="2021-03-31T01:14:12">
+<testsuite errors="0" failures="0" hostname="fernando-EZbook" name="videoclub.ClientVideoClubServiceTest" skipped="0" tests="2" time="0.239" timestamp="2021-03-31T06:55:36">
   <properties>
     <property name="libs.jsp-compiler.javadoc" value="" />
     <property name="netbeans.autoupdate.country" value="SV" />
     <property name="libs.Junit3x.javadoc" value="" />
     <property name="nb.wait.for.caches" value="true" />
-    <property name="javac.test.classpath" value=":build/classes:::/home/fernando/Descargas/easymock-2.4.jar:/home/fernando/Descargas/junit-3.8.1.jar" />
+    <property name="javac.test.classpath" value=":build/classes:::/home/fernando/Descargas/easymock-2.4.jar:/usr/local/netbeans-11.1/netbeans/platform/modules/ext/junit-4.12.jar:/usr/local/netbeans-11.1/netbeans/platform/modules/ext/hamcrest-core-1.3.jar" />
     <property name="libs.jsf20.maven-pom" value="" />
     <property name="libs.dbunit.javadoc" value="" />
-    <property name="javac.test.sourcepath" value="/home/fernando/TPI/T2 2/Practica2-TPI/VideoClub/build/empty" />
+    <property name="javac.test.sourcepath" value="/home/fernando/TPI/Practica2-Unidad2/Practica-2-unidad-2/VideoClub/build/empty" />
     <property name="libs.spring-webmvc4.0.src" value="" />
     <property name="ant.core.lib" value="/usr/local/netbeans-11.1/netbeans/extide/ant/lib/ant.jar" />
     <property name="libs.EasyMock.maven-pom" value="" />
     <property name="libs.Junit3x.maven-pom" value="" />
     <property name="javadoc.windowtitle" value="" />
     <property name="libs.jsp-compilation.javadoc" value="" />
-    <property name="user.dir" value="/home/fernando/TPI/T2 2/Practica2-TPI/VideoClub" />
+    <property name="user.dir" value="/home/fernando/TPI/Practica2-Unidad2/Practica-2-unidad-2/VideoClub" />
     <property name="libs.javaee-api-7.0.src" value="" />
     <property name="java.vm.version" value="25.222-b10" />
     <property name="libs.eclipselinkmodelgen.src" value="" />
@@ -51,7 +51,7 @@
     <property name="libs.restapi.classpath" value="/usr/local/netbeans-11.1/netbeans/enterprise/modules/ext/jaxrs-2.0/javax.ws.rs-api-2.0.jar" />
     <property name="libs.Java-EE-Payara-v4.src" value="" />
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
-    <property name="ant.file.VideoClub-impl" value="/home/fernando/TPI/T2 2/Practica2-TPI/VideoClub/nbproject/build-impl.xml" />
+    <property name="ant.file.VideoClub-impl" value="/home/fernando/TPI/Practica2-Unidad2/Practica-2-unidad-2/VideoClub/nbproject/build-impl.xml" />
     <property name="libs.jaxb.maven-pom" value="" />
     <property name="os.arch" value="amd64" />
     <property name="libs.eclipselink.src" value="" />
@@ -60,7 +60,7 @@
     <property name="libs.Comet-GlassFish-v3.javadoc" value="" />
     <property name="copylibs.rebase" value="true" />
     <property name="libs.spring-webmvc3.0.maven-pom" value="" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner videoclub.ClientVideoClubServiceTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false showoutput=true outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=true formatter=org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/home/fernando/TPI/T2 2/Practica2-TPI/VideoClub/build/test/results/TEST-videoclub.ClientVideoClubServiceTest.xml crashfile=/home/fernando/TPI/T2 2/Practica2-TPI/VideoClub/build/junitvmwatcher1468479848782019948.properties propsfile=/home/fernando/TPI/T2 2/Practica2-TPI/VideoClub/build/junit2996114217703517859.properties" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner videoclub.ClientVideoClubServiceTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false showoutput=true outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=true formatter=org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/home/fernando/TPI/Practica2-Unidad2/Practica-2-unidad-2/VideoClub/build/test/results/TEST-videoclub.ClientVideoClubServiceTest.xml crashfile=/home/fernando/TPI/Practica2-Unidad2/Practica-2-unidad-2/VideoClub/build/junitvmwatcher73304793934446141.properties propsfile=/home/fernando/TPI/Practica2-Unidad2/Practica-2-unidad-2/VideoClub/build/junit4642812212056417658.properties" />
     <property name="build.classes.dir" value="build/classes" />
     <property name="libs.dbunit.src" value="" />
     <property name="build.sysclasspath" value="ignore" />
@@ -113,7 +113,7 @@
     <property name="file.separator" value="/" />
     <property name="libs.junit_4.maven-pom" value="" />
     <property name="mkdist.disabled" value="false" />
-    <property name="javac.test.processorpath" value=":build/classes:::/home/fernando/Descargas/easymock-2.4.jar:/home/fernando/Descargas/junit-3.8.1.jar" />
+    <property name="javac.test.processorpath" value=":build/classes:::/home/fernando/Descargas/easymock-2.4.jar:/usr/local/netbeans-11.1/netbeans/platform/modules/ext/junit-4.12.jar:/usr/local/netbeans-11.1/netbeans/platform/modules/ext/hamcrest-core-1.3.jar" />
     <property name="netbeans.buildnumber" value="netbeans-release-428-on-20190716" />
     <property name="libs.JWSAntTasks.javadoc" value="" />
     <property name="javax.accessibility.assistive_technologies" value="org.GNOME.Accessibility.AtkWrapper" />
@@ -138,7 +138,7 @@
     <property name="libs.spring-framework400.src" value="" />
     <property name="libs.PostgreSQLDriver.src" value="" />
     <property name="sun.arch.data.model" value="64" />
-    <property name="basedir" value="/home/fernando/TPI/T2 2/Practica2-TPI/VideoClub" />
+    <property name="basedir" value="/home/fernando/TPI/Practica2-Unidad2/Practica-2-unidad-2/VideoClub" />
     <property name="libs.jpa20-persistence.maven-pom" value="" />
     <property name="jar.compress" value="false" />
     <property name="libs.javaee-web-api-7.0.classpath" value="/usr/local/netbeans-11.1/netbeans/enterprise/modules/ext/javaee-web-api-7.0.jar" />
@@ -160,7 +160,7 @@
     <property name="manifest.available" value="true" />
     <property name="libs.primefaces.javadoc" value="" />
     <property name="libs.spring-framework300.maven-pom" value="" />
-    <property name="run.test.classpath" value=":build/classes:::/home/fernando/Descargas/easymock-2.4.jar:/home/fernando/Descargas/junit-3.8.1.jar:build/test/classes" />
+    <property name="run.test.classpath" value=":build/classes:::/home/fernando/Descargas/easymock-2.4.jar:/usr/local/netbeans-11.1/netbeans/platform/modules/ext/junit-4.12.jar:/usr/local/netbeans-11.1/netbeans/platform/modules/ext/hamcrest-core-1.3.jar:build/test/classes" />
     <property name="ant.project.invoked-targets" value="test" />
     <property name="test.binaryexcludes" value="" />
     <property name="sun.java2d.dpiaware" value="true" />
@@ -182,7 +182,7 @@
     <property name="libs.spring-webmvc4.0.maven-pom" value="" />
     <property name="libs.spring-framework300.src" value="" />
     <property name="libs.jstl.src" value="" />
-    <property name="empty.dir" value="/home/fernando/TPI/T2 2/Practica2-TPI/VideoClub/build/empty" />
+    <property name="empty.dir" value="/home/fernando/TPI/Practica2-Unidad2/Practica-2-unidad-2/VideoClub/build/empty" />
     <property name="test.binarytestincludes" value="" />
     <property name="javadoc.preview" value="true" />
     <property name="libs.jpa20-persistence.javadoc" value="" />
@@ -190,9 +190,9 @@
     <property name="java.home" value="/usr/lib/jvm/java-8-openjdk-amd64/jre" />
     <property name="libs.jsp-compilation.src" value="" />
     <property name="libs.MYSQL_JDBC.src" value="" />
-    <property name="debug.test.classpath" value=":build/classes:::/home/fernando/Descargas/easymock-2.4.jar:/home/fernando/Descargas/junit-3.8.1.jar:build/test/classes" />
+    <property name="debug.test.classpath" value=":build/classes:::/home/fernando/Descargas/easymock-2.4.jar:/usr/local/netbeans-11.1/netbeans/platform/modules/ext/junit-4.12.jar:/usr/local/netbeans-11.1/netbeans/platform/modules/ext/hamcrest-core-1.3.jar:build/test/classes" />
     <property name="libs.javaee-api-6.0.src" value="" />
-    <property name="ant.file.VideoClub" value="/home/fernando/TPI/T2 2/Practica2-TPI/VideoClub/build.xml" />
+    <property name="ant.file.VideoClub" value="/home/fernando/TPI/Practica2-Unidad2/Practica-2-unidad-2/VideoClub/build.xml" />
     <property name="netbeans.importclass" value="org.netbeans.upgrade.AutoUpgrade" />
     <property name="ant.project.default-target" value="default" />
     <property name="annotation.processing.run.all.processors" value="true" />
@@ -207,7 +207,6 @@
     <property name="libs.EclipseLink-GlassFish-v3.maven-pom" value="" />
     <property name="javac.test.modulepath" value="" />
     <property name="libs.javaee-web-api-6.0.maven-pom" value="" />
-    <property name="file.reference.junit-3.8.1.jar" value="/home/fernando/Descargas/junit-3.8.1.jar" />
     <property name="run.classpath" value=":build/classes" />
     <property name="jna.boot.library.name" value="jnidispatch-440" />
     <property name="libs.javaee-api-7.0.classpath" value="/usr/local/netbeans-11.1/netbeans/enterprise/modules/ext/javaee-api-7.0.jar" />
@@ -227,7 +226,7 @@
     <property name="libs.junit_5.classpath" value="/usr/local/netbeans-11.1/netbeans/platform/modules/ext/junit-jupiter-api-5.3.1.jar:/usr/local/netbeans-11.1/netbeans/platform/modules/ext/junit-jupiter-params-5.3.1.jar:/usr/local/netbeans-11.1/netbeans/platform/modules/ext/junit-jupiter-engine-5.3.1.jar" />
     <property name="libs.Java-EE-Payara-v4.classpath" value="/home/fernando/payara-5.192/payara5/glassfish/modules/javax.websocket-api.jar:/home/fernando/payara-5.192/payara5/glassfish/modules/javax.xml.rpc-api.jar:/home/fernando/payara-5.192/payara5/glassfish/modules/javax.el.jar:/home/fernando/payara-5.192/payara5/glassfish/modules/javax.enterprise.concurrent.jar:/home/fernando/payara-5.192/payara5/glassfish/modules/cdi-api.jar:/home/fernando/payara-5.192/payara5/glassfish/modules/javax.ejb-api.jar:/home/fernando/payara-5.192/payara5/glassfish/modules/javax.annotation-api.jar:/home/fernando/payara-5.192/payara5/glassfish/modules/jaxb-osgi.jar:/home/fernando/payara-5.192/payara5/glassfish/modules/javax.enterprise.deploy-api.jar:/home/fernando/payara-5.192/payara5/glassfish/modules/javax.transaction-api.jar:/home/fernando/payara-5.192/payara5/glassfish/modules/javax.servlet.jsp.jstl-api.jar:/home/fernando/payara-5.192/payara5/glassfish/modules/javax.mail.jar:/home/fernando/payara-5.192/payara5/glassfish/modules/webservices-osgi.jar:/home/fernando/payara-5.192/payara5/glassfish/modules/javax.security.enterprise-api.jar:/home/fernando/payara-5.192/payara5/glassfish/modules/javax.servlet.jsp.jstl.jar:/home/fernando/payara-5.192/payara5/glassfish/modules/javax.ws.rs-api.jar:/home/fernando/payara-5.192/payara5/glassfish/modules/javax.servlet.jsp-api.jar:/home/fernando/payara-5.192/payara5/glassfish/modules/javax.batch-api.jar:/home/fernando/payara-5.192/payara5/glassfish/modules/javax.security.jacc-api.jar:/home/fernando/payara-5.192/payara5/glassfish/modules/javax.persistence.jar:/home/fernando/payara-5.192/payara5/glassfish/modules/javax.interceptor-api.jar:/home/fernando/payara-5.192/payara5/glassfish/modules/javax.security.enterprise.jar:/home/fernando/payara-5.192/payara5/glassfish/modules/javax.resource-api.jar:/home/fernando/payara-5.192/payara5/glassfish/modules/javax.json.jar:/home/fernando/payara-5.192/payara5/glassfish/modules/javax.servlet.jsp.jar:/home/fernando/payara-5.192/payara5/glassfish/modules/javax.enterprise.concurrent-api.jar:/home/fernando/payara-5.192/payara5/glassfish/modules/javax.servlet-api.jar:/home/fernando/payara-5.192/payara5/glassfish/modules/weld-osgi-bundle.jar:/home/fernando/payara-5.192/payara5/glassfish/modules/javax.management.j2ee-api.jar:/home/fernando/payara-5.192/payara5/glassfish/modules/javax.inject.jar:/home/fernando/payara-5.192/payara5/glassfish/modules/javax.xml.registry-api.jar:/home/fernando/payara-5.192/payara5/glassfish/modules/javax.jms-api.jar:/home/fernando/payara-5.192/payara5/glassfish/modules/javax.json.bind-api.jar:/home/fernando/payara-5.192/payara5/mq/lib/jaxm-api.jar" />
     <property name="javac.compilerargs" value="" />
-    <property name="ant.file" value="/home/fernando/TPI/T2 2/Practica2-TPI/VideoClub/build.xml" />
+    <property name="ant.file" value="/home/fernando/TPI/Practica2-Unidad2/Practica-2-unidad-2/VideoClub/build.xml" />
     <property name="libs.jsf12.classpath" value="/usr/local/netbeans-11.1/netbeans/enterprise/modules/ext/jsf-1_2/jsf-api.jar:/usr/local/netbeans-11.1/netbeans/enterprise/modules/ext/jsf-1_2/jsf-impl.jar" />
     <property name="libs.jstl.maven-pom" value="" />
     <property name="libs.restapi.maven-pom" value="" />
@@ -268,6 +267,7 @@
     <property name="netbeans.hash.code" value="unique=NB0039f7870-cb21-4268-abac-b45f8c1c4a8b_0341cb73-7830-4eb4-94be-1eb155b540b6" />
     <property name="netbeans.default_userdir_root" value="/home/fernando/.netbeans" />
     <property name="libs.jsp-compilation-syscp.maven-pom" value="" />
+    <property name="junit.selected.version" value="3" />
     <property name="sun.cpu.isalist" value="" />
     <property name="libs.spring-framework400.javadoc" value="" />
     <property name="libs.CopyLibs.javadoc" value="" />
@@ -311,7 +311,7 @@
     <property name="libs.testng.maven-pom" value="" />
     <property name="libs.jaxb.src" value="" />
     <property name="libs.dbunit.maven-pom" value="" />
-    <property name="work.dir" value="/home/fernando/TPI/T2 2/Practica2-TPI/VideoClub" />
+    <property name="work.dir" value="/home/fernando/TPI/Practica2-Unidad2/Practica-2-unidad-2/VideoClub" />
     <property name="libs.jaxb.classpath" value="/usr/local/netbeans-11.1/netbeans/ide/modules/ext/jaxb/jaxb-impl-2.2.5-2.jar:/usr/local/netbeans-11.1/netbeans/ide/modules/ext/jaxb/jaxb-xjc-2.2.5-2.jar:/usr/local/netbeans-11.1/netbeans/ide/modules/ext/jaxb/jaxb1-impl-2.2.5-2.jar:/usr/local/netbeans-11.1/netbeans/ide/modules/ext/jaxb/activation.jar:/usr/local/netbeans-11.1/netbeans/ide/modules/ext/jaxb/api/jaxb-api.jar" />
     <property name="libs.Java-EE-Payara-v4.javadoc" value="/usr/local/netbeans-11.1/netbeans/enterprise/docs/javaee-doc-api.jar" />
     <property name="do.depend" value="false" />
@@ -330,7 +330,7 @@
     <property name="junit.forkmode" value="perTest" />
     <property name="sun.boot.class.path" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes" />
     <property name="javac.target" value="1.8" />
-    <property name="built-jar.properties" value="/home/fernando/TPI/T2 2/Practica2-TPI/VideoClub/build/built-jar.properties" />
+    <property name="built-jar.properties" value="/home/fernando/TPI/Practica2-Unidad2/Practica-2-unidad-2/VideoClub/build/built-jar.properties" />
     <property name="build.test.classes.dir" value="build/test/classes" />
     <property name="src.dir" value="src" />
     <property name="javac.test.compilerargs" value="" />
@@ -379,7 +379,7 @@
     <property name="libs.metro.classpath" value="/usr/local/netbeans-11.1/netbeans/ide/modules/ext/jaxb/activation.jar:/usr/local/netbeans-11.1/netbeans/enterprise/modules/ext/metro/webservices-api.jar:/usr/local/netbeans-11.1/netbeans/enterprise/modules/ext/metro/webservices-extra-api.jar:/usr/local/netbeans-11.1/netbeans/enterprise/modules/ext/metro/webservices-extra.jar:/usr/local/netbeans-11.1/netbeans/enterprise/modules/ext/metro/webservices-rt.jar:/usr/local/netbeans-11.1/netbeans/enterprise/modules/ext/metro/webservices-tools.jar" />
     <property name="libs.restlib.maven-pom" value="" />
     <property name="apple.laf.useScreenMenuBar" value="true" />
-    <property name="java.class.path" value="/home/fernando/TPI/T2 2/Practica2-TPI/VideoClub/build/classes:/home/fernando/Descargas/easymock-2.4.jar:/home/fernando/Descargas/junit-3.8.1.jar:/home/fernando/TPI/T2 2/Practica2-TPI/VideoClub/build/test/classes:/usr/local/netbeans-11.1/netbeans/extide/ant/lib/ant-launcher.jar:/usr/local/netbeans-11.1/netbeans/extide/ant/lib/ant.jar:/usr/local/netbeans-11.1/netbeans/extide/ant/lib/ant-junit.jar:/usr/local/netbeans-11.1/netbeans/extide/ant/lib/ant-junit4.jar" />
+    <property name="java.class.path" value="/home/fernando/TPI/Practica2-Unidad2/Practica-2-unidad-2/VideoClub/build/classes:/home/fernando/Descargas/easymock-2.4.jar:/usr/local/netbeans-11.1/netbeans/platform/modules/ext/junit-4.12.jar:/usr/local/netbeans-11.1/netbeans/platform/modules/ext/hamcrest-core-1.3.jar:/home/fernando/TPI/Practica2-Unidad2/Practica-2-unidad-2/VideoClub/build/test/classes:/usr/local/netbeans-11.1/netbeans/extide/ant/lib/ant-launcher.jar:/usr/local/netbeans-11.1/netbeans/extide/ant/lib/ant.jar:/usr/local/netbeans-11.1/netbeans/extide/ant/lib/ant-junit.jar:/usr/local/netbeans-11.1/netbeans/extide/ant/lib/ant-junit4.jar" />
     <property name="libs.absolutelayout.src" value="" />
     <property name="libs.jpa20-persistence.classpath" value="/usr/local/netbeans-11.1/netbeans/java/modules/ext/eclipselink/javax.persistence-2.1.0.jar" />
     <property name="libs.junit_5.javadoc" value="/usr/local/netbeans-11.1/netbeans/platform/docs/junit-jupiter-api-5.3.1-javadoc.jar:/usr/local/netbeans-11.1/netbeans/platform/docs/junit-jupiter-params-5.3.1-javadoc.jar:/usr/local/netbeans-11.1/netbeans/platform/docs/junit-jupiter-engine-5.3.1-javadoc.jar" />
@@ -434,8 +434,8 @@
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit" />
     <property name="libs.javaee-web-api-7.0.javadoc" value="/usr/local/netbeans-11.1/netbeans/enterprise/docs/javaee-doc-api.jar" />
   </properties>
-  <testcase classname="videoclub.ClientVideoClubServiceTest" name="testClientVideoClubService" time="0.062" />
-  <testcase classname="videoclub.ClientVideoClubServiceTest" name="testGetVideo" time="0.071" />
+  <testcase classname="videoclub.ClientVideoClubServiceTest" name="testGetVideo" time="0.068" />
+  <testcase classname="videoclub.ClientVideoClubServiceTest" name="testClientVideoClubService" time="0.006" />
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
